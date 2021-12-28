@@ -1,4 +1,4 @@
-BOT_TOKEN = "OTI0NTc5NjU3Mjg4OTA4ODUx.Ycgn6A.JgKjF6Oa768KA1gKE3lweTGjUTM" # Your bot token here.
+BOT_TOKEN = "" # Your bot token here.
 
 from discord.ext.commands.errors import MissingRequiredArgument
 
