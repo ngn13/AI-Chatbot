@@ -1,2 +1,2 @@
 # chatx
-Python AI discord chatbot
+Im lazy figure out yourself.
