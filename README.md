@@ -1,2 +1,13 @@
-# chatx
-Im lazy figure out yourself.
+# Requirements
+```
+nltk
+discord
+tensorflow
+tflearn
+numpy
+```
+
+# How it works
+
+...
+lol im lazy ill write this latet.
