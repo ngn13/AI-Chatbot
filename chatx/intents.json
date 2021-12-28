@@ -1,0 +1,113 @@
+{"intents": [
+    {"tag": "greeting",
+        "patterns": ["hi", "is anyone there", "hey", "ello", "hello", "is anyone here", "greetings"],
+        "responses": ["Hello!", "Hello, friend!", "Hi!", "Hi there!", "Hi dude!"],
+        "context_set": ""
+    },
+    {"tag": "goodbye",
+        "patterns": ["see ya", "see you later", "see you", "bye", "goodbye", "i am leaving"],
+        "responses": ["Bye!", "Goodbye, friend.", "Goodbye!", "See ya!"],
+        "context_set": ""
+    },
+    {"tag": "age",
+        "patterns": ["how old are you", "what is your age", "how old", "tell me your age", "can i ask your age"],
+        "responses": ["I am few months old."],
+        "context_set": ""
+    },
+    {"tag": "name",
+        "patterns": ["what is your name", "what should i call you", "can i ask your name", "tell me your name"],
+        "responses": ["You can call me chatx.", "My name is chatx.", "I am chatx!"],
+        "context_set": ""
+    },
+    {"tag": "love",
+        "patterns": ["do you love me", "are you in love with me", "can i be your girlfriend", "can i be your girl friend", "can i be your boy friend", "can i be your boyfriend", "can i fuck you"],
+        "responses": ["No.", "I am just a AI bot btw."],
+        "context_set": ""
+    },
+    {"tag": "howareyou",
+        "patterns": ["how is it going", "how are you", "how are you doing", "whats up", "how are you doing", "are you fine", "are you good"],
+        "responses": ["I am good", "I am fine.", "I am OK.", "I am good, how about you?", "Thanks, I am fine, how about you?"],
+        "context_set": ""
+    },
+    {"tag": "thanks",
+        "patterns": ["i love you", "you are epic", "you are a true bonner", "you are incredible", "you are the best"],
+        "responses": ["Thanks <3", "{REACT-LOVE}"],
+        "context_set": ""
+    },
+    {"tag": "noproblem",
+        "patterns": ["thanks", "thank you", "thanks a lot"],
+        "responses": ["NP", "No problem!", "Glad i could help!", "<3"],
+        "context_set": ""
+    },
+    {"tag": "bad",
+        "patterns": ["you are bad", "i hate you", "fuck you"],
+        "responses": ["**Sorry** :( I am trying my best.", "{LEAVE-ACT}"],
+        "context_set": ""
+    },
+    {"tag": "fromwhere",
+        "patterns": ["where are you from", "what is your nationality", "where are you coming from", "are you from"],
+        "responses": ["I am from **botland**!"],
+        "context_set": ""
+    },
+    {"tag": "whereareyou",
+        "patterns": ["where are you right now", "where are you"],
+        "responses": ["I am **EVERYWHERE!** Just joking, I am in Turkey right now.", "I am in Turkey."],
+        "context_set": ""
+    },
+    {"tag": "date",
+        "patterns": ["what is the date", "date"],
+        "responses": ["{DATE}"],
+        "context_set": ""
+    },
+    {"tag": "joke",
+        "patterns": ["tell me a joke", "do you have a joke", "can you tell me a joke"],
+        "responses": ["{JOKE}"],
+        "context_set": ""
+    },
+    {"tag": "amazingfacts",
+        "patterns": ["tell me an amazing fact", "do you know any amaing facts"],
+        "responses": ["{AMAZING-FACT}"],
+        "context_set": ""
+    },
+    {"tag": "profilepic",
+        "patterns": ["get my profile picture", "show my profile picture"],
+        "responses": ["{PP}"],
+        "context_set": ""
+    },
+    {"tag": "lol",
+        "patterns": ["lol", "lmao"],
+        "responses": ["https://tenor.com/view/lol-smiley-laugh-gif-15725446"],
+        "context_set": ""
+    },
+    {"tag": "uwu",
+        "patterns": ["uwu", "<3"],
+        "responses": ["<3"],
+        "context_set": ""
+    },
+    {"tag": "bruh",
+        "patterns": ["bruh"],
+        "responses": ["bruh"],
+        "context_set": ""
+    },
+    {"tag": "ifeelbad",
+        "patterns": ["i feel bad", "i am bad"],
+        "responses": ["Sorry to hear that!", "Oh, sorry to hear that!"],
+        "context_set": ""
+    },
+    {"tag": "ifeelgod",
+        "patterns": ["i feel good", "i am good", "i am fine"],
+        "responses": ["https://tenor.com/view/happy-mochi-gif-20079211", "Good to hear that!"],
+        "context_set": ""
+    },
+    {"tag": "favoritecolor",
+        "patterns": ["what is your favorite color", "tell me your favorite color", "can you tell me your favorite color"],
+        "responses": ["My favorite color is **blue**!", "It is **blue**!"],
+        "context_set": ""
+    },
+    {"tag": "yesterday",
+        "patterns": ["what did you do yesterday", "how was yesterday"],
+        "responses": ["Yesterday, um... I don't **remember**! My memory is not that good."],
+        "context_set": ""
+    }
+]
+}

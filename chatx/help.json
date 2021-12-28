@@ -1,0 +1,11 @@
+[
+    {
+        "command": "setChannel [channel-name] [mode]",
+        "desc": "Set mode for channel. Default, bot is disabled in every channel."
+    },
+    {
+        "command": "Modes",
+        "desc": "Channel modes. Here is all the modes:\n`disabled`: Chatbot will be completely disabled on that channel.\n`active`: Chatbot will answer all the messages on the channel.\n`ping`: Chatot will only answer if the bot has pinged in the message.\n`half active`: Only answer half-active tags. For example it will answer messages like 'hello' or 'goodbye' but not answer 'what is your name?' etc.\n`default`: Will answer if the bot has pinged in the message and also answer half-active tags even if bot did not pinged."
+
+    }
+]
