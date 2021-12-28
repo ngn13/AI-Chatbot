@@ -10,4 +10,4 @@ numpy
 # How it works
 
 ...
-lol im lazy ill write this latet.
+lol im lazy ill write this later.
